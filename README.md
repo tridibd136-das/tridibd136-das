@@ -1,5 +1,5 @@
 <img width="1983" height="793" alt="ChatGPT Image May 31, 2026, 09_21_43 AM" src="https://github.com/user-attachments/assets/815763f6-4161-4154-bb55-b651230a252a" />
-# 💫 About Me:
+##💫 About Me:
 🚀 Last Year BCA student at Techno Main Salt Lake (MAKAUT) with hands-on experience in cloud computing, data analytics, and web development.<br><br>I specialise in building data-driven solutions—from developing real-time data pipelines on AWS to creating interactive dashboards that transform raw data into actionable insights. During my internship, I designed and deployed a real-time stock market data pipeline using AWS services (EC2, S3, Lambda) and REST APIs, enabling near real-time analytics and automation.<br><br>On the analytics side, I have worked extensively with Python (Pandas), SQL, Excel, and Power BI to clean, analyse, and visualise data. I’ve built several projects upon analytics and web development that uncovers organizations and personal spending patterns and supports smarter financial decisions through interactive reporting.
 
 
@@ -15,11 +15,6 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username= tridibd136-das&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-## Streak Status
-[![GitHub Streak](https://demolab.com)](https://github.com)
-
-
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
